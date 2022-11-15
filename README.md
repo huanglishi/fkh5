@@ -70,5 +70,8 @@ git push -u origin main
 
 ## 启动运行
 ```
+#初始化
+npm install
+#运行
 npm run dev
 ```
